@@ -1,0 +1,28 @@
+INCOMPLETE
+
+You wake up, confused, and find yourself in a dimly lit hallway...
+| Go Left.
+	You walk left and stop abruptly after hearing a creaking noise from above...
+		| Hit the suspicious red button you see next to you.
+			The floor disappears below you, and you start to fall. At least the walls won't hurt you...
+			You think it's been about 2 hours since you started falling, when, to your surprise, you start floating upwards. It's as if... you can fly!
+			| Attempt to fly back up.
+			| Float to the bottom of the hole. 
+| Go Right.
+	You go right to find a dead end and an array of switches, but there are no lightbulbs. Only candles...
+	| Flip the switches.
+		You flip two switches, and a door opens up behind you. You flip the other two, and another one opens in front of you! Either one could get you out, or to Oblivion.
+		| Enter Door 2
+	| Walk towards the candles.
+		You walk towards the candles and find 23 of them, and a few matches. Only 18 candles are lit up...
+		| Light the remainder of the candles.
+-----------------------------
+| Trust your instincts and climb faster.
+	You reach the top of the ladder, barely. You see a lit up staircase to your left...
+	| Climb the staircase.
+		You sprint up the staircase, and almost fall over when you reach the end. A bottomless pit... Well, almost. You see a small light shining at the very bottom of the pit... Your way out? Possibly...
+		| Jump in!
+		| Turn back.
+			You turn back only to find that your path has been blocked! A passage opens up to your left...
+			| Jump in.
+			| Go left.
